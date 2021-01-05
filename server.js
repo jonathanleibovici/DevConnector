@@ -1,6 +1,6 @@
 const express = require('express');//express server up and running 
 const connectdb = require('./config/db');
-//connect database
+//connect database 
 
 
 const app = express();// init the app express
